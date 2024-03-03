@@ -1,0 +1,28 @@
+.team-banner {
+  width: 100%;
+  max-width: 600px;
+  margin: auto;
+}
+
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.recent-matches-container {
+  background-image: linear-gradient(#d91c1f, #a4261d, #1e293b);
+  margin-top: 24px;
+}
+
+.recent-matches-heading {
+  color: #ffffff;
+  font-size: 24px;
+}
+
+.matches-list {
+  margin-top: 16px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}

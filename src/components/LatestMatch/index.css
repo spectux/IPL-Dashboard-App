@@ -1,0 +1,31 @@
+.latest-match-container {
+  margin-top: 24px;
+}
+
+.latest-match-heading {
+  color: #ffffff;
+  font-size: 24px;
+}
+
+.latest-match-details {
+  background-color: #1e293b;
+  display: flex;
+  align-items: center;
+  margin-top: 16px;
+}
+
+.team-logo {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+  margin-right: 16px;
+}
+
+.match-date,
+.match-venue,
+.match-result,
+.match-status,
+.man-of-the-match {
+  margin: 8px 0;
+  color: #ffffff;
+}
